@@ -1,4 +1,4 @@
-
+![KANNA_edited](https://github.com/user-attachments/assets/2a5ab3dc-168a-4632-9ae4-95d817e81349)
 
 # 💫 About Me:
 🔭 I'm Currently working on Creating Portfolio<br>👯 I’m looking to work on  AI Attendance System<br>📫 How to reach me  koushikbethu.indian@gmail.com<br>👨‍💻 All of my projects are available at  https://koushikbethu.github.io/Koushik-Portfolio/<br>📄 Know about my experiences  https://koushikbethu.github.io/RESUME/
