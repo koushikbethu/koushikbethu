@@ -1,3 +1,4 @@
+![koushik-github-pic](https://github.com/user-attachments/assets/99bfede5-95bd-4338-8be8-22682abc56d1)
 
 
 # 💫 About Me:
