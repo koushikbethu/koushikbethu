@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I'm Currently working on AI Attendance System<br>👯 I’m looking to work on  Voice-recognition Game<br>📫 How to reach me  koushikbethu.indian@gmail.com<br>👨‍💻 All of my projects are available at  https://koushikbethu.github.io/Koushik-Portfolio/<br>📄 Know about my experiences  https://koushikbethu.github.io/RESUME/
+🔭 I'm Currently working on Building a E-Commerce website <br>👯 I’m looking to work on  Full Stack Projects<br>📫 How to reach me  koushikbethu.indian@gmail.com<br>👨‍💻 All of my projects are available at  https://koushikbethu.github.io/Koushik-Portfolio/<br>📄 Know about my experiences  https://koushikbethu.github.io/RESUME/
 
 
 ## 🌐 Socials:
