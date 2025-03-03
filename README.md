@@ -2,7 +2,7 @@
  
 
 # 💫 About Me:
-🔭 I'm Currently learning Backend in Web development <br>👯 I’m looking to work on  Full Stack Projects<br>📫 How to reach me  koushikbethu.indian@gmail.com<br>👨‍💻 All of my projects are available at  https://koushikbethu.github.io/Koushik-Portfolio/<br>📄 Know about my experiences  
+🔭 I'm Currently learning Backend in Web development <br>👯 I’m looking to work on  Full Stack Projects<br>📫 How to reach me  koushikbethu.indian@gmail.com<br>👨‍💻 All of my projects are available at  https://koushikbethu.github.io/Koushik-Portfolio/<br>📄 Know about my experiences  https://drive.google.com/file/d/1FfkapA2r8apnTiq2QUL3kOGnd2ywImwf/view
 
 
 ## 🌐 Socials:
